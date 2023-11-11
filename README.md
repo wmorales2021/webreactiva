@@ -34,6 +34,7 @@ Carga de la aplicación a GitHub, como se muestra a continuación
 
 ![image](https://github.com/wmorales2021/webreactiva/assets/79813722/e0fef8cf-0300-4a69-a17b-0448b0b4bd2b)
 
+
 Se confirma que el proyecto fue cargado a github, como se muestra a continuación 
 
 Link del repositorio: https://github.com/wmorales2021/webreactiva
