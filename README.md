@@ -41,6 +41,52 @@ Link del repositorio: https://github.com/wmorales2021/webreactiva
 
 ![image](https://github.com/wmorales2021/webreactiva/assets/79813722/0389d935-a79f-4cb3-b5cc-dd6881a6aabb)
 
+Creación y ejecución de shell script 
+
+Se llevó a cabo el paso a paso indicado en el laboratorio aws awsacademy https://labs.vocareum.com/  AWS CLI:  
+
+<img width="287" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/8c2f88d7-5b77-4d45-a22b-94f1e46457e3">
+
+se generó la llave en la raiz del proyecto 
+
+<img width="438" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/fa57a878-685c-4765-8df5-4d325d298ed5">
+
+Se construye el shell script 
+
+<img width="958" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/9afba049-1dcc-44cb-a1e6-97c730ad0b0e">
+
+<img width="958" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/5b10dd78-8ba4-4deb-8c79-1bb8d0deec78">
+
+<img width="956" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/10ba2284-ee52-45af-b4f6-9fd82dff7760">
+
+Ejecutamos el script para empezar a crear las Instancias en AWS 
+<img width="492" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/cf99ee79-dff8-4557-a891-106da5ef6b30">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
