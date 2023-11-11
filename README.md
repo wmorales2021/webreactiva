@@ -7,7 +7,7 @@ Se ejecuta el comando npm start
 Navegamos el sitio de manera local http://localhost:3000 , como se muestra a continuación:
 
 <img width="924" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/35f5e35e-f2ce-4989-a7f0-813274751c12">
-Exploramos los mené de la aplicación como se muestra a continuación:
+Exploramos los menú de la aplicación como se muestra a continuación:
 
 <img width="926" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/afefd3bb-0730-489f-8647-9d3e407f1ed5">
 <img width="932" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/9bb05a0d-3810-49d8-80ba-584f9d84ec9c">
