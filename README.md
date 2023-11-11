@@ -60,7 +60,46 @@ Se construye el shell script
 <img width="956" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/10ba2284-ee52-45af-b4f6-9fd82dff7760">
 
 Ejecutamos el script para empezar a crear las Instancias en AWS 
+
 <img width="492" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/cf99ee79-dff8-4557-a891-106da5ef6b30">
+
+verificamos la Creacion de las Instancias en AWS 
+
+<img width="947" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/2e9903b2-ea90-4496-b8d0-5f37fad937c7">
+
+Navegamos en la primera Instancia Puerto 30718
+
+<img width="713" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/ee9663fe-b9f0-4f60-8074-d0551afd95cb">
+
+<img width="771" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/e0626017-80f0-47e5-87c6-f2fd19ae2383">
+
+
+Navegamos en la segunda Instancia puerto 1618
+
+<img width="675" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/10aacb06-5831-4b6c-a12c-71a3e535b989">
+
+<img width="854" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/2ebf102a-5103-4ac3-adc1-1d01d140d060">
+
+Navegamos la tercera Instancia Puerto 37133
+
+<img width="672" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/09786dff-f9b6-4ea6-8262-a1796cabfd1d">
+
+<img width="788" alt="image" src="https://github.com/wmorales2021/webreactiva/assets/79813722/1ec3452e-51fa-4432-a828-a1519f25becc">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
